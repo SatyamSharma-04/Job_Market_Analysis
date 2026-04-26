@@ -21,14 +21,14 @@ The goal was to identify high-paying roles, dominant hiring sectors, and the spe
 
 ## 💡​Core Insights :-
 
-• ​Python, SQL, and Excel represent the core foundation of the market, appearing in over 50% of all job postings.
+• ​**Python, SQL, and Excel** represent the core foundation of the market, appearing in over 50% of all job postings.
 
-• The Information Technology and Biotech & Pharmaceuticals sectors dominate the hiring landscape, accounting for over 50% of the total job volume.
+• The **Information Technology and Biotech & Pharmaceuticals sectors** dominate the hiring landscape, accounting for over 50% of the total job volume.
 
-• While technical roles like Machine Learning Engineers ($126k) command high premiums, the highest salary ceiling is found in Director-level ($131k) leadership positions.
+• While technical roles like **Machine Learning Engineers ($126k) **command high premiums, the highest salary ceiling is found in **Director-level ($131k)** leadership positions.
 
 
-# ⚒️​ Tools Used :-
+## ⚒️​ Tools Used :-
 
 - Power BI (DAX, Power Query, Data Modeling)
 - ​SQL (Complex queries, Data retrieving)
